@@ -1,39 +1,54 @@
 Integrated Project: Access to Drinking Water
 Project Overview
+
 This project transforms raw survey data into meaningful insights about access to drinking water in underserved communities. Using Google Sheets, we clean, model, and visualize data to highlight infrastructure gaps, safety concerns, and usage patterns.
 
 Objectives
-Clean and structure water access data using Google Sheets
 
-Build interconnected sheets to simulate a relational data model
+Data Cleaning & Structuring: Organize and refine survey data using Google Sheets.
 
-Create charts and dashboards that reveal trends in water source usage, safety, and accessibility
+Data Modeling: Build interconnected sheets to simulate a relational data model.
 
-Empower stakeholders with data-driven insights for infrastructure planning
+Visualization: Create charts and dashboards to reveal trends in water source usage, safety, and accessibility.
+
+Decision Support: Empower stakeholders with data-driven insights for infrastructure planning.
 
 Tools & Technologies
-Google Sheets: Data cleaning, transformation, modeling, and visualization
+Primary Tools
 
-Formulas & Functions: VLOOKUP, QUERY, ARRAYFORMULA, IMPORTRANGE, etc.
+Google Sheets: Data cleaning, transformation, modeling, and visualization.
 
-Charts: Column, pie, line, and geo charts for visual storytelling
+Survey Data: Primary source of information on water access and safety.
 
-Survey Data: Primary source of information on water access and safety
+Functions & Techniques
+
+Formulas & Functions: VLOOKUP, QUERY, ARRAYFORMULA, IMPORTRANGE, and more.
+
+Charts: Column, pie, line, and geo charts for visual storytelling.
 
 Key Features
-Water Source Distribution Sheet Tracks frequency and types of water sources across regions.
+1. Water Source Distribution Sheet
 
-Safety & Accessibility Sheet Maps crime incidents and gender-based risks during water collection.
+Tracks frequency and types of water sources across regions.
 
-Queue Dynamics Sheet Analyzes wait times and crowding at shared water points.
+2. Safety & Accessibility Sheet
 
-Pollution Mapping Sheet Displays contamination levels of wells and taps across provinces.
+Maps crime incidents and gender-based risks during water collection.
+
+3. Queue Dynamics Sheet
+
+Analyzes wait times and crowding at shared water points.
+
+4. Pollution Mapping Sheet
+
+Displays contamination levels of wells and taps across provinces.
 
 Insights Delivered
-Gender disparities in water collection responsibilities
 
-Correlation between crime rates and water access points
+Gender disparities in water collection responsibilities.
 
-Identification of high-risk zones for water pollution
+Correlation between crime rates and water access points.
 
-Patterns in queue lengths and peak collection times
+Identification of high-risk zones for water pollution.
+
+Patterns in queue lengths and peak collection times.
